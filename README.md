@@ -4,7 +4,7 @@
 I am interested in the CT scans of the head. I would like to classify whether a patient has intraparenchymal (IPH), intraventricular (IVH), subdural (SDH), extradural (EDH) and subarachnoid (SAH) hemorrhages, calvarial fractures, or midline shift and mass effect.
 
 ## Data Understanding
-I will use the qure.ai dataset: [link](http://headctstudy.qure.ai/dataset). 
+I will use the [qure.ai](http://headctstudy.qure.ai/dataset) dataset. 
 
 ## Data Preparation
 I'll store the images in an S3 bucket. I’ll use the labels provided by the 3 radiologists who were a part of the study. I will write a function to format the images into appropriately pre-processed floating point tensors that can be fed into the network.
