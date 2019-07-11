@@ -1,5 +1,4 @@
-# Capstone Proposal Template
-
+# Overview: [CT Predictions](https://docs.google.com/presentation/d/18sDxk-tp57OcvZb_ZAvChxeDB3WP5Uiagb1IaXPrymE/edit?usp=sharing)
 ## Business Understanding
 I am interested in the CT scans of the head. I would like to classify whether a patient has intraparenchymal (IPH), intraventricular (IVH), subdural (SDH), extradural (EDH) and subarachnoid (SAH) hemorrhages, calvarial fractures, or midline shift and mass effect.
 
